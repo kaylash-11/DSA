@@ -21,12 +21,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/kaylash-11/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/kaylash-11/DSA/tree/master/0392-is-subsequence) |
 ## Array
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/kaylash-11/DSA/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kaylash-11/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/kaylash-11/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/kaylash-11/DSA/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/kaylash-11/DSA/tree/master/0268-missing-number) |
 ## Hash Table
