@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/kaylash-11/DSA/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/kaylash-11/DSA/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/kaylash-11/DSA/tree/master/0485-max-consecutive-ones) |
+| [0904-fruit-into-baskets](https://github.com/kaylash-11/DSA/tree/master/0904-fruit-into-baskets) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/kaylash-11/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Hash Table
 |  |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/kaylash-11/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0169-majority-element](https://github.com/kaylash-11/DSA/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/kaylash-11/DSA/tree/master/0268-missing-number) |
+| [0904-fruit-into-baskets](https://github.com/kaylash-11/DSA/tree/master/0904-fruit-into-baskets) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kaylash-11/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0904-fruit-into-baskets](https://github.com/kaylash-11/DSA/tree/master/0904-fruit-into-baskets) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/kaylash-11/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Prefix Sum
 |  |
