@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/kaylash-11/DSA/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kaylash-11/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/kaylash-11/DSA/tree/master/0169-majority-element) |
+| [0219-contains-duplicate-ii](https://github.com/kaylash-11/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/kaylash-11/DSA/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/kaylash-11/DSA/tree/master/0485-max-consecutive-ones) |
 | [0904-fruit-into-baskets](https://github.com/kaylash-11/DSA/tree/master/0904-fruit-into-baskets) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/kaylash-11/DSA/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kaylash-11/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0169-majority-element](https://github.com/kaylash-11/DSA/tree/master/0169-majority-element) |
+| [0219-contains-duplicate-ii](https://github.com/kaylash-11/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/kaylash-11/DSA/tree/master/0268-missing-number) |
 | [0904-fruit-into-baskets](https://github.com/kaylash-11/DSA/tree/master/0904-fruit-into-baskets) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/kaylash-11/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kaylash-11/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0219-contains-duplicate-ii](https://github.com/kaylash-11/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0904-fruit-into-baskets](https://github.com/kaylash-11/DSA/tree/master/0904-fruit-into-baskets) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/kaylash-11/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/kaylash-11/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
