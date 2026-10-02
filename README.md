@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/kaylash-11/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/kaylash-11/DSA/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/kaylash-11/DSA/tree/master/0485-max-consecutive-ones) |
+| [0682-baseball-game](https://github.com/kaylash-11/DSA/tree/master/0682-baseball-game) |
 | [0904-fruit-into-baskets](https://github.com/kaylash-11/DSA/tree/master/0904-fruit-into-baskets) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/kaylash-11/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Hash Table
@@ -145,9 +146,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/kaylash-11/DSA/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/kaylash-11/DSA/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/kaylash-11/DSA/tree/master/0234-palindrome-linked-list) |
+| [0682-baseball-game](https://github.com/kaylash-11/DSA/tree/master/0682-baseball-game) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/kaylash-11/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/kaylash-11/DSA/tree/master/0020-valid-parentheses) |
+## Simulation
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/kaylash-11/DSA/tree/master/0682-baseball-game) |
 <!---LeetCode Topics End-->
